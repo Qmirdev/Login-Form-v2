@@ -4,7 +4,6 @@
 - [Screenshot](#screenshot)
 - [Live Site](#Live-Site)
 - [Built with](#built-with)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
