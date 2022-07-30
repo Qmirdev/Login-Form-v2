@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Login Form v2</h1>
-  <img src="/docs/images/img-1.png">
-  <img src="/docs/images/img-2.png">
+  <img src="/docs/images/1.png">
+  <img src="/docs/images/2.png">
 </div>
 
 <br>
